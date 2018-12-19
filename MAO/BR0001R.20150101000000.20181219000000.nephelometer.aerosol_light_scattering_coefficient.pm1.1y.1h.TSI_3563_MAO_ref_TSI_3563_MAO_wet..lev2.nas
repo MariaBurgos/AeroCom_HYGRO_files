@@ -115,7 +115,7 @@ Set type code:                TU
 Station code:                 BR0001R 
 Platform code:                BR0001M 
 Timezone:                     UTC 
-Startdate:                    20140820141300 
+Startdate:                    20150101003000 
 Revision date:                20181219000000 
 Component:                    aerosol_light_scattering_coefficient 
 Unit:                         1/Mm 
