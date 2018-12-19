@@ -1,0 +1,35 @@
+2018-12-19 15:34:33,356 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 15:34:33,358 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 15:34:33,359 NasaAmes1001 INFO    : reading file ./PGH/IN0003R.20110101000000.20181218000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PGH_ref_TSI_3563_PGH_wet..lev2.nas
+2018-12-19 15:34:33,365 NasaAmes1001 WARNING : line 70: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 15:34:33,365 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 15:34:35,008 EbasNasaAmes WARNING : line 104: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 15:34:35,009 EbasNasaAmes WARNING : line 114: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 15:34:35,252 EbasNasaAmes WARNING : Period code '1y' should be '7mo' according to data
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 56: Variable 43: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 56: Variable 43: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 57: Variable 44: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 57: Variable 44: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 58: Variable 45: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 58: Variable 45: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,274 EbasNasaAmes WARNING : line 59: Variable 46: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,275 EbasNasaAmes WARNING : line 59: Variable 46: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,275 EbasNasaAmes WARNING : line 60: Variable 47: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,275 EbasNasaAmes WARNING : line 60: Variable 47: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,275 EbasNasaAmes WARNING : line 61: Variable 48: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 15:34:35,275 EbasNasaAmes WARNING : line 61: Variable 48: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:34:35,279 EbasNasaAmes WARNING : File name: changed from 'IN0003R.20110101000000.20181218000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PGH_ref_TSI_3563_PGH_wet..lev2.nas' to 'IN0003R.20110609111800.20181218000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.US06L_TSI_3563_PGH_ref+TSI_3563_PGH_wet.US06L_hygro_tandem_neph_CorrData.lev2.nas'
+2018-12-19 15:34:35,285 EbasNasaAmes WARNING : variable[11]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,291 EbasNasaAmes WARNING : variable[12]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,296 EbasNasaAmes WARNING : variable[13]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,302 EbasNasaAmes WARNING : variable[14]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,308 EbasNasaAmes WARNING : variable[25]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,314 EbasNasaAmes WARNING : variable[26]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,319 EbasNasaAmes WARNING : variable[27]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,325 EbasNasaAmes WARNING : variable[28]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,331 EbasNasaAmes WARNING : variable[39]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,337 EbasNasaAmes WARNING : variable[40]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,343 EbasNasaAmes WARNING : variable[41]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,348 EbasNasaAmes WARNING : variable[42]: All valid values are -999.999. Check data sanity.
+2018-12-19 15:34:35,348 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 15:34:35,349 ebas_insert  INFO    : file ./PGH/IN0003R.20110101000000.20181218000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PGH_ref_TSI_3563_PGH_wet..lev2.nas: 0 Errors, 29 Warnings
