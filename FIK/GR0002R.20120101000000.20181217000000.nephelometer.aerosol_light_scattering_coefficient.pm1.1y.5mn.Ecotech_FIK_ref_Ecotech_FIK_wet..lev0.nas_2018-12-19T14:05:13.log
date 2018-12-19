@@ -1,0 +1,28 @@
+2018-12-19 14:05:14,553 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 14:05:14,556 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 14:05:14,556 NasaAmes1001 INFO    : reading file ./FIK/GR0002R.20120101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.5mn.Ecotech_FIK_ref_Ecotech_FIK_wet..lev0.nas
+2018-12-19 14:05:14,559 NasaAmes1001 WARNING : line 31: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 14:05:14,559 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 14:05:30,179 NasaAmes1001 WARNING : line 105200: DX (0.0) specified in line 8 is inconsistent with data - setting 0.003472
+2018-12-19 14:05:30,185 EbasNasaAmes WARNING : line 66: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 14:05:30,186 EbasNasaAmes WARNING : line 76: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 14:05:30,190 EbasNasaAmes WARNING : line 20: VNAME[7]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 14:05:30,197 EbasNasaAmes WARNING : line 81: start time of first sample (2012-01-01T00:05:00) is not equal to 'Startdate' specified in metadata (2012-01-01T00:00:00)
+2018-12-19 14:05:33,582 EbasNasaAmes WARNING : Set type code TI is not consistent with timeseries data, setting TU
+2018-12-19 14:05:33,668 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:05:33,668 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:05:33,669 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,670 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:05:33,670 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,670 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:05:33,670 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:33,671 EbasNasaAmes WARNING : File name: changed from 'GR0002R.20120101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.5mn.Ecotech_FIK_ref_Ecotech_FIK_wet..lev0.nas' to 'GR0002R.20120101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.5mn.GR02L_Ecotech_FIK_ref+Ecotech_FIK_wet.GR02L_hygro_tandem_neph_CorrData.lev0.nas'
+2018-12-19 14:05:33,845 EbasNasaAmes WARNING : variable[1]: All valid values are 984.0. Check data sanity.
+2018-12-19 14:05:34,020 EbasNasaAmes WARNING : variable[2]: All valid values are 984.0. Check data sanity.
+2018-12-19 14:05:34,021 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 14:05:34,021 ebas_insert  INFO    : file ./FIK/GR0002R.20120101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.5mn.Ecotech_FIK_ref_Ecotech_FIK_wet..lev0.nas: 0 Errors, 22 Warnings

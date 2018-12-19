@@ -1,0 +1,28 @@
+2018-12-19 13:58:54,545 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 13:58:54,547 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 13:58:54,547 NasaAmes1001 INFO    : reading file ./MAO/BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev0.nas
+2018-12-19 13:58:54,551 NasaAmes1001 WARNING : line 41: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 13:58:54,551 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 13:59:08,072 EbasNasaAmes WARNING : line 75: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 13:59:08,073 EbasNasaAmes WARNING : line 85: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 13:59:08,077 EbasNasaAmes WARNING : line 20: VNAME[7]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 13:59:08,091 EbasNasaAmes ERROR   : line 90: start time of first sample (2015-01-20T15:30:00) is not equal to 'Startdate' specified in metadata (2014-08-20T14:13:00)
+2018-12-19 13:59:10,481 EbasNasaAmes WARNING : Period code '1y' should be '14w' according to data
+2018-12-19 13:59:10,543 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 13:59:10,544 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,545 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 13:59:10,545 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,545 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 13:59:10,545 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 13:59:10,547 EbasNasaAmes WARNING : File name: changed from 'BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev0.nas' to 'BR0001R.20140820141300.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.US06L_TSI_3563_MAO_ref+TSI_3563_MAO_wet.US06L_hygro_tandem_neph_CorrData.lev0.nas'
+2018-12-19 13:59:10,549 EbasNasaAmes WARNING : variable[17]: All values are MISSING. Check data sanity.
+2018-12-19 13:59:10,550 EbasNasaAmes WARNING : variable[18]: All values are MISSING. Check data sanity.
+2018-12-19 13:59:10,550 EbasNasaAmes WARNING : variable[19]: All values are MISSING. Check data sanity.
+2018-12-19 13:59:10,550 EbasNasaAmes INFO    : Exiting because of previous errors
+2018-12-19 13:59:10,551 ebas_insert  INFO    : file ./MAO/BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev0.nas: 1 Errors, 21 Warnings

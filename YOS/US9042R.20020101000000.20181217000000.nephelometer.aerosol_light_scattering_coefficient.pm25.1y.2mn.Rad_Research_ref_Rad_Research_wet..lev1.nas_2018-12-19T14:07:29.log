@@ -1,0 +1,28 @@
+2018-12-19 14:07:30,492 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 14:07:30,494 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 14:07:30,494 NasaAmes1001 INFO    : reading file ./YOS/US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.2mn.Rad_Research_ref_Rad_Research_wet..lev1.nas
+2018-12-19 14:07:30,497 NasaAmes1001 WARNING : line 32: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 14:07:30,498 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 14:07:36,521 EbasNasaAmes WARNING : line 66: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 14:07:36,522 EbasNasaAmes WARNING : line 75: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 14:07:36,526 EbasNasaAmes WARNING : line 20: VNAME[7]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 14:07:37,688 EbasNasaAmes WARNING : Period code '1y' should be '53d' according to data
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:07:37,734 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 23: Variable 10: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:07:37,735 EbasNasaAmes WARNING : line 23: Variable 10: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:37,737 EbasNasaAmes WARNING : File name: changed from 'US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.2mn.Rad_Research_ref_Rad_Research_wet..lev1.nas' to 'US9042R.20020714000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.2mn.US11L_Rad_Research_ref+Rad_Research_wet.US11L_hygro_tandem_neph_CorrData.lev1.nas'
+2018-12-19 14:07:37,802 EbasNasaAmes WARNING : variable[1]: All valid values are 833.0. Check data sanity.
+2018-12-19 14:07:37,864 EbasNasaAmes WARNING : variable[2]: All valid values are 833.0. Check data sanity.
+2018-12-19 14:07:37,865 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 14:07:37,865 ebas_insert  INFO    : file ./YOS/US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.2mn.Rad_Research_ref_Rad_Research_wet..lev1.nas: 0 Errors, 22 Warnings

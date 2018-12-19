@@ -1,0 +1,49 @@
+2018-12-19 14:04:58,229 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 14:04:58,232 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 14:04:58,232 NasaAmes1001 INFO    : reading file ./MHD/IE0031R.20090101000000.20181214000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.1mo.1mn.TSI_3563_MHD_ref_TSI_3563_MHD_wet..lev1.nas
+2018-12-19 14:04:58,238 NasaAmes1001 WARNING : line 54: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 14:04:58,238 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 14:05:10,592 EbasNasaAmes WARNING : line 91: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 14:05:10,593 EbasNasaAmes WARNING : line 101: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 14:05:10,597 EbasNasaAmes WARNING : line 21: VNAME[8]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 14:05:12,413 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:05:12,413 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:05:12,414 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,415 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:05:12,415 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,415 EbasNasaAmes WARNING : line 20: Variable 7: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:05:12,415 EbasNasaAmes WARNING : line 20: Variable 7: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,415 EbasNasaAmes WARNING : line 34: Variable 21: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 34: Variable 21: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 35: Variable 22: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 35: Variable 22: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 36: Variable 23: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 36: Variable 23: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 37: Variable 24: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 37: Variable 24: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 38: Variable 25: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,416 EbasNasaAmes WARNING : line 38: Variable 25: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 39: Variable 26: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 39: Variable 26: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 40: Variable 27: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 40: Variable 27: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 41: Variable 28: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 41: Variable 28: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 42: Variable 29: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 42: Variable 29: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,417 EbasNasaAmes WARNING : line 43: Variable 30: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,418 EbasNasaAmes WARNING : line 43: Variable 30: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,418 EbasNasaAmes WARNING : line 44: Variable 31: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,418 EbasNasaAmes WARNING : line 44: Variable 31: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,418 EbasNasaAmes WARNING : line 45: Variable 32: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:05:12,418 EbasNasaAmes WARNING : line 45: Variable 32: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:05:12,422 EbasNasaAmes WARNING : File name: changed from 'IE0031R.20090101000000.20181214000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.1mo.1mn.TSI_3563_MHD_ref_TSI_3563_MHD_wet..lev1.nas' to 'IE0031R.20090116135728.20181214000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.1mo.1mn.CH02L_TSI_3563_MHD_ref+TSI_3563_MHD_wet.CH02L_hygro_tandem_neph_CorrData.lev1.nas'
+2018-12-19 14:05:12,423 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 14:05:12,423 ebas_insert  INFO    : file ./MHD/IE0031R.20090101000000.20181214000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.1mo.1mn.TSI_3563_MHD_ref_TSI_3563_MHD_wet..lev1.nas: 0 Errors, 43 Warnings

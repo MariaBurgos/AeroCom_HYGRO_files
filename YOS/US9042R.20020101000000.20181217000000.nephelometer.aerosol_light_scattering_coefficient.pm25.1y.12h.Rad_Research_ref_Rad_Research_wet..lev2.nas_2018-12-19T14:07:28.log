@@ -1,0 +1,13 @@
+2018-12-19 14:07:29,541 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 14:07:29,543 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 14:07:29,543 NasaAmes1001 INFO    : reading file ./YOS/US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.12h.Rad_Research_ref_Rad_Research_wet..lev2.nas
+2018-12-19 14:07:29,547 NasaAmes1001 WARNING : line 37: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 14:07:29,547 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 14:07:29,574 EbasNasaAmes WARNING : line 71: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 14:07:29,575 EbasNasaAmes WARNING : line 80: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 14:07:29,596 EbasNasaAmes WARNING : Period code '1y' should be '53d' according to data
+2018-12-19 14:07:29,619 EbasNasaAmes WARNING : line 28: Variable 15: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 14:07:29,619 EbasNasaAmes WARNING : line 28: Variable 15: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:07:29,621 EbasNasaAmes WARNING : File name: changed from 'US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.12h.Rad_Research_ref_Rad_Research_wet..lev2.nas' to 'US9042R.20020714000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.12h.US11L_Rad_Research_ref+Rad_Research_wet.US11L_hygro_tandem_neph_CorrData.lev2.nas'
+2018-12-19 14:07:29,622 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 14:07:29,622 ebas_insert  INFO    : file ./YOS/US9042R.20020101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.pm25.1y.12h.Rad_Research_ref_Rad_Research_wet..lev2.nas: 0 Errors, 7 Warnings

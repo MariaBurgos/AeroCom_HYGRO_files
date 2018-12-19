@@ -1,0 +1,32 @@
+2018-12-19 14:00:09,104 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 14:00:09,106 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 14:00:09,107 NasaAmes1001 INFO    : reading file ./ZEP/NO0042G.20080101000000.20181213000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.4mo.1mn.TSI_3563_ZEP_ref_TSI_3563_ZEP_wet..lev0.nas
+2018-12-19 14:00:09,110 NasaAmes1001 WARNING : line 42: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 14:00:09,111 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 14:00:35,046 EbasNasaAmes WARNING : line 79: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 14:00:35,047 EbasNasaAmes WARNING : line 89: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 14:00:35,051 EbasNasaAmes WARNING : line 21: VNAME[8]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 14:00:40,075 EbasNasaAmes WARNING : Period code '4mo' should be '3mo' according to data
+2018-12-19 14:00:40,174 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:00:40,174 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,175 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:00:40,176 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,176 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:00:40,176 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,176 EbasNasaAmes WARNING : line 20: Variable 7: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 14:00:40,176 EbasNasaAmes WARNING : line 20: Variable 7: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 14:00:40,179 EbasNasaAmes WARNING : File name: changed from 'NO0042G.20080101000000.20181213000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.4mo.1mn.TSI_3563_ZEP_ref_TSI_3563_ZEP_wet..lev0.nas' to 'NO0042G.20080708135939.20181213000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.4mo.1mn.CH02L_TSI_3563_ZEP_ref+TSI_3563_ZEP_wet.CH02L_hygro_tandem_neph_CorrData.lev0.nas'
+2018-12-19 14:00:40,376 EbasNasaAmes WARNING : variable[12]: All valid values are 0.0. Check data sanity.
+2018-12-19 14:00:40,573 EbasNasaAmes WARNING : variable[13]: All valid values are 0.0. Check data sanity.
+2018-12-19 14:00:40,775 EbasNasaAmes WARNING : variable[14]: All valid values are -0.0. Check data sanity.
+2018-12-19 14:00:40,965 EbasNasaAmes WARNING : variable[18]: All valid values are -0.0. Check data sanity.
+2018-12-19 14:00:41,158 EbasNasaAmes WARNING : variable[19]: All valid values are -0.0. Check data sanity.
+2018-12-19 14:00:41,352 EbasNasaAmes WARNING : variable[20]: All valid values are 0.0. Check data sanity.
+2018-12-19 14:00:41,352 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 14:00:41,353 ebas_insert  INFO    : file ./ZEP/NO0042G.20080101000000.20181213000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.4mo.1mn.TSI_3563_ZEP_ref_TSI_3563_ZEP_wet..lev0.nas: 0 Errors, 26 Warnings
