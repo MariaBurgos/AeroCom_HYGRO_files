@@ -1,0 +1,99 @@
+2018-12-19 23:17:18,889 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 23:17:18,890 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 23:17:18,891 ebas_insert  WARNING : no option --non-interactive but stdin is not a tty: option --non-interactive will be added
+2018-12-19 23:17:18,891 NasaAmes1001 INFO    : reading file ./MAO/BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1h.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev2.nas
+2018-12-19 23:17:18,898 NasaAmes1001 WARNING : line 118: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 23:17:18,898 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 23:17:19,940 EbasNasaAmes WARNING : line 152: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 23:17:19,941 EbasNasaAmes WARNING : line 162: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 23:17:20,172 EbasNasaAmes WARNING : Period code '1y' should be '17w' according to data
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 98: Variable 85: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 98: Variable 85: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 99: Variable 86: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 99: Variable 86: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 100: Variable 87: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 100: Variable 87: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 101: Variable 88: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 101: Variable 88: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 102: Variable 89: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 102: Variable 89: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 103: Variable 90: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,193 EbasNasaAmes WARNING : line 103: Variable 90: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 104: Variable 91: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 104: Variable 91: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 105: Variable 92: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 105: Variable 92: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 106: Variable 93: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 106: Variable 93: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 107: Variable 94: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 107: Variable 94: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 108: Variable 95: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 108: Variable 95: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 109: Variable 96: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 23:17:20,194 EbasNasaAmes WARNING : line 109: Variable 96: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 23:17:20,201 EbasNasaAmes WARNING : File name: changed from 'BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1h.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev2.nas' to 'BR0001R.20150101003000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1h.US06L_TSI_3563_MAO_ref+TSI_3563_MAO_wet.US06L_hygro_tandem_neph_CorrData.lev2.nas'
+2018-12-19 23:17:20,202 EbasNasaAmes WARNING : variable[1]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,202 EbasNasaAmes WARNING : variable[2]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,202 EbasNasaAmes WARNING : variable[3]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,202 EbasNasaAmes WARNING : variable[14]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[15]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[16]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[17]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[28]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[29]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[30]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,203 EbasNasaAmes WARNING : variable[31]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[42]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[43]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[44]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[45]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[46]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,204 EbasNasaAmes WARNING : variable[47]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[48]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[49]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[50]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[51]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[52]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[53]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[54]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[55]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[56]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[57]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[58]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,205 EbasNasaAmes WARNING : variable[59]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[60]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[61]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[62]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[63]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[64]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[65]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[66]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[67]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[68]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[69]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,206 EbasNasaAmes WARNING : variable[70]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[71]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[72]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[73]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[74]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[75]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[76]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[77]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[78]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[79]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[80]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,207 EbasNasaAmes WARNING : variable[81]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[82]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[83]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[84]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[86]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[87]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[88]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[90]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[91]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[92]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,208 EbasNasaAmes WARNING : variable[94]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,209 EbasNasaAmes WARNING : variable[95]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,209 EbasNasaAmes WARNING : variable[96]: All values are MISSING. Check data sanity.
+2018-12-19 23:17:20,209 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 23:17:20,209 ebas_insert  INFO    : file ./MAO/BR0001R.20150101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1h.TSI_3563_MAO_ref_TSI_3563_MAO_wet..lev2.nas: 0 Errors, 92 Warnings
