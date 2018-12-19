@@ -1,0 +1,26 @@
+2018-12-19 15:43:20,162 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 15:43:20,164 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 15:43:20,164 NasaAmes1001 INFO    : reading file /home/paul/check_ebas_filetree/tmp/FI0050R.20130101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.3mo.10s.Aurora_3000_HYY_ref_Aurora_3000_HYY_wet..lev0.nas
+2018-12-19 15:43:20,165 NasaAmes1001 WARNING : line 3: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 15:43:20,168 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 15:45:02,488 EbasNasaAmes WARNING : line 77: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 15:45:02,490 EbasNasaAmes WARNING : line 87: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 15:45:02,495 EbasNasaAmes WARNING : line 21: VNAME[8]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 15:45:34,542 EbasNasaAmes WARNING : Period code '3mo' should be '14w' according to data
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 15:45:34,956 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 20: Variable 7: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 15:45:34,957 EbasNasaAmes WARNING : line 20: Variable 7: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 15:45:34,960 EbasNasaAmes WARNING : File name: changed from 'FI0050R.20130101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.3mo.10s.Aurora_3000_HYY_ref_Aurora_3000_HYY_wet..lev0.nas' to 'FI0050R.20130507075534.20181217000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.3mo.10s.SE02L_Aurora_3000_HYY_ref+Aurora_3000_HYY_wet.SE02L_hygro_tandem_neph_CorrData.lev0.nas'
+2018-12-19 15:45:34,979 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 15:45:34,979 ebas_insert  INFO    : file /home/paul/check_ebas_filetree/tmp/FI0050R.20130101000000.20181217000000.nephelometer.aerosol_light_scattering_coefficient.aerosol.3mo.10s.Aurora_3000_HYY_ref_Aurora_3000_HYY_wet..lev0.nas: 0 Errors, 20 Warnings
