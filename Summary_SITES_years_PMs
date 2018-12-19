@@ -1,0 +1,33 @@
+Sites with only one year of measurements and one PM sizecut -> you can use the files in drive (already checked)
+ZEP
+MHD
+HYY
+CES
+MEL
+LAN
+YOS
+FIK
+
+sites with one year of measurements but 2PM sizecuts (PM10 and PM1)
+CBG
+FKB
+GRW
+GSN
+HFE
+HLM
+KCO
+NIM
+PGH
+PYE
+
+site with more than 1 year of measurement but only 1PM sizecut
+UGR (2 years)
+
+sites with more than one year of measurements and 2PM sizecuts (PM10 and PM1)
+GRW (2 years)
+MAO (2 years)
+PVC (2 years)
+SGP (19 years)
+THD (5 years)
+APP (5 years)
+BRW (8 years)
