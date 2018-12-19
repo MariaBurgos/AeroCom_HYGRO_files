@@ -1,0 +1,25 @@
+2018-12-19 12:34:11,153 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 12:34:11,155 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 12:34:11,155 NasaAmes1001 INFO    : reading file ./PVC/US0906R.20120101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev0.nas
+2018-12-19 12:34:11,159 NasaAmes1001 WARNING : line 41: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 12:34:11,159 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 12:34:31,938 EbasNasaAmes WARNING : line 75: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 12:34:31,939 EbasNasaAmes WARNING : line 85: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 12:34:31,943 EbasNasaAmes WARNING : line 20: VNAME[7]: Legacy VNAME 'number of wavelengths' skipped
+2018-12-19 12:34:31,960 EbasNasaAmes WARNING : line 90: start time of first sample (2012-07-16T14:30:00) is not equal to 'Startdate' specified in metadata (2012-07-16T14:04:00)
+2018-12-19 12:34:35,887 EbasNasaAmes WARNING : Period code '1y' should be '24w' according to data
+2018-12-19 12:34:35,971 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 12:34:35,971 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,971 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2018-12-19 12:34:35,971 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,972 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2018-12-19 12:34:35,973 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:34:35,975 EbasNasaAmes WARNING : File name: changed from 'US0906R.20120101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev0.nas' to 'US0906R.20120716140400.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.US06L_TSI_3563_PVC_ref+TSI_3563_PVC_wet.US06L_hygro_tandem_neph_CorrData.lev0.nas'
+2018-12-19 12:34:35,976 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 12:34:35,976 ebas_insert  INFO    : file ./PVC/US0906R.20120101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev0.nas: 0 Errors, 19 Warnings

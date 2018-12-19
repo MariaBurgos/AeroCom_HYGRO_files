@@ -1,0 +1,47 @@
+2018-12-19 12:37:03,018 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2018-12-19 12:37:03,020 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2018-12-19 12:37:03,020 NasaAmes1001 INFO    : reading file ./PVC/US0906R.20130101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev2.nas
+2018-12-19 12:37:03,028 NasaAmes1001 WARNING : line 118: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2018-12-19 12:37:03,028 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2018-12-19 12:37:05,717 EbasNasaAmes WARNING : line 152: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2018-12-19 12:37:05,718 EbasNasaAmes WARNING : line 162: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2018-12-19 12:37:06,103 EbasNasaAmes WARNING : Period code '1y' should be '6mo' according to data
+2018-12-19 12:37:06,132 EbasNasaAmes WARNING : line 98: Variable 85: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,132 EbasNasaAmes WARNING : line 98: Variable 85: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,132 EbasNasaAmes WARNING : line 99: Variable 86: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,132 EbasNasaAmes WARNING : line 99: Variable 86: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,133 EbasNasaAmes WARNING : line 100: Variable 87: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,133 EbasNasaAmes WARNING : line 100: Variable 87: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,133 EbasNasaAmes WARNING : line 101: Variable 88: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,133 EbasNasaAmes WARNING : line 101: Variable 88: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,153 EbasNasaAmes WARNING : line 102: Variable 89: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,154 EbasNasaAmes WARNING : line 102: Variable 89: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,154 EbasNasaAmes WARNING : line 103: Variable 90: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,154 EbasNasaAmes WARNING : line 103: Variable 90: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,154 EbasNasaAmes WARNING : line 104: Variable 91: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,154 EbasNasaAmes WARNING : line 104: Variable 91: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,155 EbasNasaAmes WARNING : line 105: Variable 92: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,155 EbasNasaAmes WARNING : line 105: Variable 92: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,155 EbasNasaAmes WARNING : line 106: Variable 93: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,155 EbasNasaAmes WARNING : line 106: Variable 93: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,156 EbasNasaAmes WARNING : line 107: Variable 94: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,156 EbasNasaAmes WARNING : line 107: Variable 94: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,156 EbasNasaAmes WARNING : line 108: Variable 95: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,156 EbasNasaAmes WARNING : line 108: Variable 95: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,156 EbasNasaAmes WARNING : line 109: Variable 96: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('no unit'); detection limit definition will not be applied
+2018-12-19 12:37:06,157 EbasNasaAmes WARNING : line 109: Variable 96: 'Detection limit expl.' will not be applied for the same reason
+2018-12-19 12:37:06,170 EbasNasaAmes WARNING : File name: changed from 'US0906R.20130101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev2.nas' to 'US0906R.20130101001900.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.US06L_TSI_3563_PVC_ref+TSI_3563_PVC_wet.US06L_hygro_tandem_neph_CorrData.lev2.nas'
+2018-12-19 12:37:06,171 EbasNasaAmes WARNING : variable[13]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,171 EbasNasaAmes WARNING : variable[14]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,172 EbasNasaAmes WARNING : variable[27]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,172 EbasNasaAmes WARNING : variable[28]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,173 EbasNasaAmes WARNING : variable[41]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,173 EbasNasaAmes WARNING : variable[42]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,174 EbasNasaAmes WARNING : variable[55]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,174 EbasNasaAmes WARNING : variable[56]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,175 EbasNasaAmes WARNING : variable[69]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,175 EbasNasaAmes WARNING : variable[70]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,205 EbasNasaAmes WARNING : variable[83]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,205 EbasNasaAmes WARNING : variable[84]: All values are MISSING. Check data sanity.
+2018-12-19 12:37:06,207 ebas_insert  WARNING : No DB connection, skipping insert.
+2018-12-19 12:37:06,207 ebas_insert  INFO    : file ./PVC/US0906R.20130101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm10.1y.1h.TSI_3563_PVC_ref_TSI_3563_PVC_wet..lev2.nas: 0 Errors, 41 Warnings
