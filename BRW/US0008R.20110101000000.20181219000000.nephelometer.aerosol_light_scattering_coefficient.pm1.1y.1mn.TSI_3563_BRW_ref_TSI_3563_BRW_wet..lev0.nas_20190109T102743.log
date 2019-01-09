@@ -1,0 +1,25 @@
+2019-01-09 10:27:43,840 EbasCmdLine  INFO    : DB connection disabled by argument --nodb
+2019-01-09 10:27:43,842 ebas_insert  WARNING : No DB connection, files will be preliminarily checked only.
+2019-01-09 10:27:43,842 ebas_insert  WARNING : no option --non-interactive but stdin is not a tty: option --non-interactive will be added
+2019-01-09 10:27:43,842 NasaAmes1001 INFO    : reading file ./BRW/US0008R.20110101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_BRW_ref_TSI_3563_BRW_wet..lev0.nas
+2019-01-09 10:27:43,846 NasaAmes1001 WARNING : line 41: character set encoding: fallback to codec 'iso8859-15' but this might be wrong
+2019-01-09 10:27:43,846 NasaAmes1001 WARNING : File contains NO-BREAK SPACE characters, will be substituted with normal blanks
+2019-01-09 10:28:01,760 EbasNasaAmes WARNING : line 78: Legacy metadata element 'Height AGL' translated to 'Measurement height'
+2019-01-09 10:28:01,761 EbasNasaAmes WARNING : line 88: Zero/negative values code: Zero/negative values code 'zero/negative possible' changed to 'Zero/negative possible'
+2019-01-09 10:28:01,767 EbasNasaAmes WARNING : line 20: VNAME[7]: Legacy VNAME 'number of wavelengths' skipped
+2019-01-09 10:28:01,780 EbasNasaAmes WARNING : line 93: start time of first sample (2011-01-01T00:30:00) is not equal to 'Startdate' specified in metadata (2011-01-01T00:07:00)
+2019-01-09 10:28:06,059 EbasNasaAmes WARNING : line 14: Variable 1: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2019-01-09 10:28:06,059 EbasNasaAmes WARNING : line 14: Variable 1: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,059 EbasNasaAmes WARNING : line 15: Variable 2: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('hPa'); detection limit definition will not be applied
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 15: Variable 2: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 16: Variable 3: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 16: Variable 3: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 17: Variable 4: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('K'); detection limit definition will not be applied
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 17: Variable 4: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 18: Variable 5: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 18: Variable 5: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 19: Variable 6: unit '1/Mm' used for 'Detection limit' is inconsistent with variable's unit ('%'); detection limit definition will not be applied
+2019-01-09 10:28:06,060 EbasNasaAmes WARNING : line 19: Variable 6: 'Detection limit expl.' will not be applied for the same reason
+2019-01-09 10:28:06,062 EbasNasaAmes WARNING : File name: changed from 'US0008R.20110101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_BRW_ref_TSI_3563_BRW_wet..lev0.nas' to 'US0008R.20110101000700.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.US06L_TSI_3563_BRW_ref+TSI_3563_BRW_wet.US06L_hygro_tandem_neph_CorrData.lev0.nas'
+2019-01-09 10:28:06,062 ebas_insert  WARNING : No DB connection, skipping insert.
+2019-01-09 10:28:06,063 ebas_insert  INFO    : file ./BRW/US0008R.20110101000000.20181219000000.nephelometer.aerosol_light_scattering_coefficient.pm1.1y.1mn.TSI_3563_BRW_ref_TSI_3563_BRW_wet..lev0.nas: 0 Errors, 18 Warnings
